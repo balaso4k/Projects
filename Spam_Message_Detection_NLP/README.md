@@ -3,6 +3,6 @@ Project name -
 
 
 Project description - 
-    The project detects a mail as a Spam or Ham. The project uses Naive Bayes
+      The project detects a mail as a Spam or Ham. The project uses Naive Bayes
 Algorithm to detect spam.
 
