@@ -1,4 +1,5 @@
-# Breast-Cancer
+Project name -   Spam Message Detection
+Project description - 
+    The project detects a mail as a Spam or Ham. The project uses Naive Bayes
+Algorithm to detect spam.
 
-Breast Cancer Wisconsin (Diagnostic) Data Set from UCI Machine Learning Repository
-http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
